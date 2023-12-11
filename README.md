@@ -3,7 +3,7 @@
 //  FiltersSelectorView.swift
 //  CollageBuilder
 //
-//  Created by Muni
+//  Created by MuniA
 //
 
 import SwiftUI
